@@ -7,9 +7,9 @@ class PluginApp(AppConfig):
     verbose_name = 'Fontpack: Free fonts'
 
     class PretixPluginMeta:
-        name = 'Fontpack: Free fonts'
-        author = 'Raphael Michel'
-        description = 'Pack of free fonts for pretix'
+        name = 'Fontpack: Free fonts (+ Inconsolata)'
+        author = 'Raphael Michel & Daniel Malik'
+        description = 'Pack of free fonts for pretix + Inconsolata'
         visible = False
         version = __version__
         compatibility = "pretix>=4.16.0"

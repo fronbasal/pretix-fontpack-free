@@ -352,7 +352,7 @@ def fontpack_free(sender, **kwargs):
             },
             "sample": mark_safe(
                 "Съешь же ещё этих мягких французских булок да выпей чаю.<br>"
-                "דג סקרן שט לו בים זך אך לפתע מצא חבורה נחמדה שצצה כך." 
+                "דג סקרן שט לו בים זך אך לפתע מצא חבורה נחמדה שצצה כך."
                 "<br>"
                 "Ταχίστη αλώπηξ βαφής ψημένη γη, δρασκελίζει υπέρ νωθρού κυνός"
                 "<br>"
@@ -497,4 +497,238 @@ def fontpack_free(sender, **kwargs):
                 "woff2": basepath + "/space-mono-v10-latin-ext_latin-700italic.woff2",
             },
         },
+        "Inconsolata": {
+            "black": {
+                "truetype": basepath + "/Inconsolata-Black.ttf"
+            },
+            "bold": {
+                "truetype": basepath + "/Inconsolata-Bold.ttf"
+            },
+            "extrabold": {
+                "truetype": basepath + "/Inconsolata-ExtraBold.ttf"
+            },
+            "extralight": {
+                "truetype": basepath + "/Inconsolata-ExtraLight.ttf"
+            },
+            "light": {
+                "truetype": basepath + "/Inconsolata-Light.ttf"
+            },
+            "medium": {
+                "truetype": basepath + "/Inconsolata-Medium.ttf"
+            },
+            "regular": {
+                "truetype": basepath + "/Inconsolata-Regular.ttf"
+            },
+            "semibold": {
+                "truetype": basepath + "/Inconsolata-SemiBold.ttf"
+            }
+        },
+        "Inconsolata Condensed": {
+            "black": {
+                "truetype": basepath + "/Inconsolata_Condensed-Black.ttf"
+            },
+            "bold": {
+                "truetype": basepath + "/Inconsolata_Condensed-Bold.ttf"
+            },
+            "extrabold": {
+                "truetype": basepath + "/Inconsolata_Condensed-ExtraBold.ttf"
+            },
+            "extralight": {
+                "truetype": basepath + "/Inconsolata_Condensed-ExtraLight.ttf"
+            },
+            "light": {
+                "truetype": basepath + "/Inconsolata_Condensed-Light.ttf"
+            },
+            "medium": {
+                "truetype": basepath + "/Inconsolata_Condensed-Medium.ttf"
+            },
+            "regular": {
+                "truetype": basepath + "/Inconsolata_Condensed-Regular.ttf"
+            },
+            "semibold": {
+                "truetype": basepath + "/Inconsolata_Condensed-SemiBold.ttf"
+            }
+        },
+        "Inconsolata Expanded": {
+            "black": {
+                "truetype": basepath + "/Inconsolata_Expanded-Black.ttf"
+            },
+            "bold": {
+                "truetype": basepath + "/Inconsolata_Expanded-Bold.ttf"
+            },
+            "extrabold": {
+                "truetype": basepath + "/Inconsolata_Expanded-ExtraBold.ttf"
+            },
+            "extralight": {
+                "truetype": basepath + "/Inconsolata_Expanded-ExtraLight.ttf"
+            },
+            "light": {
+                "truetype": basepath + "/Inconsolata_Expanded-Light.ttf"
+            },
+            "medium": {
+                "truetype": basepath + "/Inconsolata_Expanded-Medium.ttf"
+            },
+            "regular": {
+                "truetype": basepath + "/Inconsolata_Expanded-Regular.ttf"
+            },
+            "semibold": {
+                "truetype": basepath + "/Inconsolata_Expanded-SemiBold.ttf"
+            }
+        },
+        "Inconsolata ExtraCondensed": {
+            "black": {
+                "truetype": basepath + "/Inconsolata_ExtraCondensed-Black.ttf"
+            },
+            "bold": {
+                "truetype": basepath + "/Inconsolata_ExtraCondensed-Bold.ttf"
+            },
+            "extrabold": {
+                "truetype": basepath + "/Inconsolata_ExtraCondensed-ExtraBold.ttf"
+            },
+            "extralight": {
+                "truetype": basepath + "/Inconsolata_ExtraCondensed-ExtraLight.ttf"
+            },
+            "light": {
+                "truetype": basepath + "/Inconsolata_ExtraCondensed-Light.ttf"
+            },
+            "medium": {
+                "truetype": basepath + "/Inconsolata_ExtraCondensed-Medium.ttf"
+            },
+            "regular": {
+                "truetype": basepath + "/Inconsolata_ExtraCondensed-Regular.ttf"
+            },
+            "semibold": {
+                "truetype": basepath + "/Inconsolata_ExtraCondensed-SemiBold.ttf"
+            }
+        },
+        "Inconsolata ExtraExpanded": {
+            "black": {
+                "truetype": basepath + "/Inconsolata_ExtraExpanded-Black.ttf"
+            },
+            "bold": {
+                "truetype": basepath + "/Inconsolata_ExtraExpanded-Bold.ttf"
+            },
+            "extrabold": {
+                "truetype": basepath + "/Inconsolata_ExtraExpanded-ExtraBold.ttf"
+            },
+            "extralight": {
+                "truetype": basepath + "/Inconsolata_ExtraExpanded-ExtraLight.ttf"
+            },
+            "light": {
+                "truetype": basepath + "/Inconsolata_ExtraExpanded-Light.ttf"
+            },
+            "medium": {
+                "truetype": basepath + "/Inconsolata_ExtraExpanded-Medium.ttf"
+            },
+            "regular": {
+                "truetype": basepath + "/Inconsolata_ExtraExpanded-Regular.ttf"
+            },
+            "semibold": {
+                "truetype": basepath + "/Inconsolata_ExtraExpanded-SemiBold.ttf"
+            }
+        },
+        "Inconsolata SemiCondensed": {
+            "black": {
+                "truetype": basepath + "/Inconsolata_SemiCondensed-Black.ttf"
+            },
+            "bold": {
+                "truetype": basepath + "/Inconsolata_SemiCondensed-Bold.ttf"
+            },
+            "extrabold": {
+                "truetype": basepath + "/Inconsolata_SemiCondensed-ExtraBold.ttf"
+            },
+            "extralight": {
+                "truetype": basepath + "/Inconsolata_SemiCondensed-ExtraLight.ttf"
+            },
+            "light": {
+                "truetype": basepath + "/Inconsolata_SemiCondensed-Light.ttf"
+            },
+            "medium": {
+                "truetype": basepath + "/Inconsolata_SemiCondensed-Medium.ttf"
+            },
+            "regular": {
+                "truetype": basepath + "/Inconsolata_SemiCondensed-Regular.ttf"
+            },
+            "semibold": {
+                "truetype": basepath + "/Inconsolata_SemiCondensed-SemiBold.ttf"
+            }
+        },
+        "Inconsolata SemiExpanded": {
+            "black": {
+                "truetype": basepath + "/Inconsolata_SemiExpanded-Black.ttf"
+            },
+            "bold": {
+                "truetype": basepath + "/Inconsolata_SemiExpanded-Bold.ttf"
+            },
+            "extrabold": {
+                "truetype": basepath + "/Inconsolata_SemiExpanded-ExtraBold.ttf"
+            },
+            "extralight": {
+                "truetype": basepath + "/Inconsolata_SemiExpanded-ExtraLight.ttf"
+            },
+            "light": {
+                "truetype": basepath + "/Inconsolata_SemiExpanded-Light.ttf"
+            },
+            "medium": {
+                "truetype": basepath + "/Inconsolata_SemiExpanded-Medium.ttf"
+            },
+            "regular": {
+                "truetype": basepath + "/Inconsolata_SemiExpanded-Regular.ttf"
+            },
+            "semibold": {
+                "truetype": basepath + "/Inconsolata_SemiExpanded-SemiBold.ttf"
+            }
+        },
+        "Inconsolata UltraCondensed": {
+            "black": {
+                "truetype": basepath + "/Inconsolata_UltraCondensed-Black.ttf"
+            },
+            "bold": {
+                "truetype": basepath + "/Inconsolata_UltraCondensed-Bold.ttf"
+            },
+            "extrabold": {
+                "truetype": basepath + "/Inconsolata_UltraCondensed-ExtraBold.ttf"
+            },
+            "extralight": {
+                "truetype": basepath + "/Inconsolata_UltraCondensed-ExtraLight.ttf"
+            },
+            "light": {
+                "truetype": basepath + "/Inconsolata_UltraCondensed-Light.ttf"
+            },
+            "medium": {
+                "truetype": basepath + "/Inconsolata_UltraCondensed-Medium.ttf"
+            },
+            "regular": {
+                "truetype": basepath + "/Inconsolata_UltraCondensed-Regular.ttf"
+            },
+            "semibold": {
+                "truetype": basepath + "/Inconsolata_UltraCondensed-SemiBold.ttf"
+            }
+        },
+        "Inconsolata UltraExpanded": {
+            "black": {
+                "truetype": basepath + "/Inconsolata_UltraExpanded-Black.ttf"
+            },
+            "bold": {
+                "truetype": basepath + "/Inconsolata_UltraExpanded-Bold.ttf"
+            },
+            "extrabold": {
+                "truetype": basepath + "/Inconsolata_UltraExpanded-ExtraBold.ttf"
+            },
+            "extralight": {
+                "truetype": basepath + "/Inconsolata_UltraExpanded-ExtraLight.ttf"
+            },
+            "light": {
+                "truetype": basepath + "/Inconsolata_UltraExpanded-Light.ttf"
+            },
+            "medium": {
+                "truetype": basepath + "/Inconsolata_UltraExpanded-Medium.ttf"
+            },
+            "regular": {
+                "truetype": basepath + "/Inconsolata_UltraExpanded-Regular.ttf"
+            },
+            "semibold": {
+                "truetype": basepath + "/Inconsolata_UltraExpanded-SemiBold.ttf"
+            }
+        }
     }
