@@ -2,9 +2,8 @@
 [plugin]
 package = "pretix-fontpack-free"
 modules = [ "pretix_fontpackfree" ]
-marketplace_name = "fontpack-free"
+marketplace_name = "fontpack-free-inconsolata"
 pypi = true
 repository_servers = { origin = "github.com", gitlab = "code.rami.io" }
 tag_targets = [ "origin", "gitlab" ]
 branch_targets = [ "origin/master", "gitlab/master", "f:gitlab/pypi" ]
-
