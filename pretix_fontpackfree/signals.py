@@ -17,4 +17,14 @@ def fontpack_free(sender, **kwargs):
                 "truetype": basepath + "/Inconsolata-Bold.ttf",
             },
         },
+        "Inconsolata SemiExpanded": {
+            "regular": {
+                "woff2": basepath + "/Inconsolata-SemiExpandedRegular.woff2",
+                "truetype": basepath + "/Inconsolata-SemiExpandedRegular.ttf",
+            },
+            "bold": {
+                "woff2": basepath + "/Inconsolata-SemiExpandedBold.woff2",
+                "truetype": basepath + "/Inconsolata-SemiExpandedBold.ttf",
+            },
+        },
     }
